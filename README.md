@@ -13,9 +13,9 @@ Soy estudiante de Desarrollo de Aplicaciones web, Actualmente trabajo en Ibermá
 - -Typescript
 - C#
 
-## Teconología
--Bootstrap
--Angular
--Spring Boot
+## Tecnologías :fire:
+- Bootstrap
+- Angular
+- SpringBoot
 
 
